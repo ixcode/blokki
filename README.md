@@ -6,3 +6,5 @@ Here is the original article on blockchain:
 
 [references.md][references.md] Is a list of references
 
+Also check out [certificate transparency][https://www.certificate-transparency.org/]
+
