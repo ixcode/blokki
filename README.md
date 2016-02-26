@@ -8,3 +8,9 @@ Here is the original article on blockchain:
 
 Also check out [certificate transparency](https://www.certificate-transparency.org/)
 
+# Projects
+
+Inside here there are the following projects:
+
+- [check-mate](check-mate/) Using block chain to validate binary checksums
+
